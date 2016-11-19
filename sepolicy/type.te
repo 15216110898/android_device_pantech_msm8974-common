@@ -1,0 +1,5 @@
+type cir_device, dev_type;
+type rfkill_device, dev_type;
+
+type proc_swaps, fs_type;
+
